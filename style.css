@@ -1,8 +1,14 @@
+body {
+    background-image: url("istockphoto-1449439739-612x612.jpg")
+}
+
+
 .content {
     margin: auto;
     width: 90%;
     max-width: 800px;
     display: none;
+    background-color: rgb(141, 173, 232);
 }
 
 .header {
@@ -11,6 +17,7 @@
 
 .header h1 {
     margin-bottom: 0px;
+
 }
 
 .navbar {
