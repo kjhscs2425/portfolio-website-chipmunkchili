@@ -1,14 +1,49 @@
 body {
-    background-image: url("istockphoto-1449439739-612x612.jpg")
+    background-image: url("istockphoto-1449439739-612x612.jpg");
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.top_header{
+    background-color: rgb(139, 181, 250); 
+    font-family:fantasy;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.box_head {
+    background-color: rgb(199, 218, 249);
+    text-align:center;
+    font-family:cursive;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+.center{
+    padding-top: 15px;
+    margin: auto;
+}
+
+.box1 {
+    background-color: rgb(231, 241, 186);
+}
+
+.box2 {
+    background-color: rgb(201, 241, 186);
+}
+
+.box3 {
+    background-color: rgb(194, 242, 239);
+}
+
+.box4 {
+    background-color: rgb(217, 204, 242);
+    
+}
 
 .content {
-    margin: auto;
-    width: 90%;
-    max-width: 800px;
-    display: none;
-    background-color: rgb(141, 173, 232);
+    text-align:center;
+    margin-right: 190px;
+    margin-left: 190px;
 }
 
 .header {
