@@ -60,7 +60,7 @@ songs_2010s = {
     Let_It_Go : "the cold never bothered me anyway",
     Someone_Like_You : "sometimes it hurts instead",
     Me : "you know there is a me",
-    Somebody_That_I_Used_To_Know : "that i used to know"
+    Somebody_That_I_Used_To_Know : "now you're just somebody that i used to know"
 }
 prompt_2010s = list(songs_2010s.keys())
 answer_2010s = list(songs_2010s.values())
