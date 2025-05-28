@@ -46,7 +46,7 @@ Diamonds = "Find light in the beautiful sea, I choose to be happy. You and I, yo
 Let_It_Go = "I don't care what they're going to say. Let the storm rage on..."
 Someone_Like_You = "Don't forget me, I beg. I remember you said, Sometimes it lasts in love, but..."
 Me = "Girl, there ain't no I in team. But..."
-Somebody_That_I_Used_To_Know = "Have your friends collect your records and then change your number. Guess that I don't need that, though..."
+Somebody_That_I_Used_To_Know = "Have your friends collect your records and then change your number. Guess that I don't need that, though. Now you're just somebody..."
 
 
 
@@ -60,7 +60,7 @@ songs_2010s = {
     Let_It_Go : "the cold never bothered me anyway",
     Someone_Like_You : "sometimes it hurts instead",
     Me : "you know there is a me",
-    Somebody_That_I_Used_To_Know : "now you're just somebody that i used to know"
+    Somebody_That_I_Used_To_Know : "that i used to know"
 }
 prompt_2010s = list(songs_2010s.keys())
 answer_2010s = list(songs_2010s.values())
