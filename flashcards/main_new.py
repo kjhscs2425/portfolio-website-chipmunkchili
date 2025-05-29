@@ -78,7 +78,6 @@ decade = set()
 
 
 def read_past_questions(filename, decade):
-    print(f"reading {filename}...")
     if not os.path.isfile(filename):
         return []
     
